@@ -1,5 +1,5 @@
 # MachineLearning-Algorithms-Mindmap
 
-Machine Learning Algorithms Map Explained 
+Machine Learning Algorithms Map 
 
 ![Image](MachineLearningAlgorithms.png)
